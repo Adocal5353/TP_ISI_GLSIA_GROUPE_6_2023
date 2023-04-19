@@ -1,4 +1,4 @@
-package com.ega_api.models;
+package TP_ISI_GLSIA.api_project.models;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
